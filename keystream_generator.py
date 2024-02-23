@@ -1,3 +1,8 @@
+# Oscar Fernando López Barrios
+# Carné 20679
+# Ejercicio de Stream Cipher
+# Cifrado
+
 import string
 import secrets
 

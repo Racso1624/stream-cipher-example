@@ -1,3 +1,8 @@
+# Oscar Fernando López Barrios
+# Carné 20679
+# Ejercicio de Stream Cipher
+# Cifrado
+
 def xor(a, b):
     a_bool = bool(int(a))
     b_bool = bool(int(b))
